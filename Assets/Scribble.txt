@@ -1,0 +1,4 @@
+Commendation pop up
+Score pop up
+Power up pop up (shield from thief, price multiplier (inflation))
+spawn items distance, position

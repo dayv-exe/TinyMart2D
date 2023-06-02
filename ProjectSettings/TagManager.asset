@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - clickable
+  - nonclickable
+  - CartInScene
+  - item
+  - page
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackgroundLayer
+    uniqueID: 3568300733
+    locked: 0
+  - name: CloudLayer
+    uniqueID: 2618434881
+    locked: 0
+  - name: UILayer
+    uniqueID: 3208171923
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: GameObjectLayer
+    uniqueID: 2900202129
+    locked: 0
+  - name: GroceriesLayer
+    uniqueID: 12077113
+    locked: 0
+  - name: CartLayer
+    uniqueID: 4196459555
+    locked: 0
+  - name: PopUpLayer
+    uniqueID: 2781456201
+    locked: 0
+  - name: TopMostLayer
+    uniqueID: 205337357
+    locked: 0
+  - name: CoinPanelLayer
+    uniqueID: 2180454683
+    locked: 0
